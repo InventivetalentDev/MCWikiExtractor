@@ -1,0 +1,2162 @@
+{
+  "": {
+    "key": "",
+    "title": "",
+    "link": "/Seeds"
+  },
+  "andesite": {
+    "key": "andesite",
+    "title": "Andesite",
+    "link": "/Polished_Andesite",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_values": {},
+    "name": {}
+  },
+  "banner": {
+    "key": "banner",
+    "title": "Banner",
+    "link": "/White_Banner",
+    "type": "non-solid block",
+    "physics": "no",
+    "transparency": true,
+    "luminance": false,
+    "hardness": "1",
+    "tool": {
+      "key": "axe",
+      "name": "Axe",
+      "link": "/Axe"
+    },
+    "renewable": true,
+    "first_appearances": "see history",
+    "drops": [],
+    "block_entity_id": "banner",
+    "data_values": {
+      "white_banner": "White Banner",
+      "orange_banner": "Orange Banner",
+      "magenta_banner": "Magenta Banner",
+      "light_blue_banner": "Light Blue Banner",
+      "yellow_banner": "Yellow Banner",
+      "lime_banner": "Lime Banner",
+      "pink_banner": "Pink Banner",
+      "gray_banner": "Gray Banner",
+      "light_gray_banner": "Light Gray Banner",
+      "cyan_banner": "Cyan Banner",
+      "purple_banner": "Purple Banner",
+      "blue_banner": "Blue Banner",
+      "brown_banner": "Brown Banner",
+      "green_banner": "Green Banner",
+      "red_banner": "Red Banner",
+      "black_banner": "Black Banner",
+      "white_wall_banner": "White Wall Banner",
+      "orange_wall_banner": "Orange Wall Banner",
+      "magenta_wall_banner": "Magenta Wall Banner",
+      "light_blue_wall_banner": "Light Blue Wall Banner",
+      "yellow_wall_banner": "Yellow Wall Banner",
+      "lime_wall_banner": "Lime Wall Banner",
+      "pink_wall_banner": "Pink Wall Banner",
+      "gray_wall_banner": "Gray Wall Banner",
+      "light_gray_wall_banner": "Light Gray Wall Banner",
+      "cyan_wall_banner": "Cyan Wall Banner",
+      "purple_wall_banner": "Purple Wall Banner",
+      "blue_wall_banner": "Blue Wall Banner",
+      "brown_wall_banner": "Brown Wall Banner",
+      "green_wall_banner": "Green Wall Banner",
+      "red_wall_banner": "Red Wall Banner",
+      "black_wall_banner": "Black Wall Banner"
+    },
+    "name": {
+      "white_banner": "White Banner",
+      "orange_banner": "Orange Banner",
+      "magenta_banner": "Magenta Banner",
+      "light_blue_banner": "Light Blue Banner",
+      "yellow_banner": "Yellow Banner",
+      "lime_banner": "Lime Banner",
+      "pink_banner": "Pink Banner",
+      "gray_banner": "Gray Banner",
+      "light_gray_banner": "Light Gray Banner",
+      "cyan_banner": "Cyan Banner",
+      "purple_banner": "Purple Banner",
+      "blue_banner": "Blue Banner",
+      "brown_banner": "Brown Banner",
+      "green_banner": "Green Banner",
+      "red_banner": "Red Banner",
+      "black_banner": "Black Banner",
+      "white_wall_banner": "White Wall Banner",
+      "orange_wall_banner": "Orange Wall Banner",
+      "magenta_wall_banner": "Magenta Wall Banner",
+      "light_blue_wall_banner": "Light Blue Wall Banner",
+      "yellow_wall_banner": "Yellow Wall Banner",
+      "lime_wall_banner": "Lime Wall Banner",
+      "pink_wall_banner": "Pink Wall Banner",
+      "gray_wall_banner": "Gray Wall Banner",
+      "light_gray_wall_banner": "Light Gray Wall Banner",
+      "cyan_wall_banner": "Cyan Wall Banner",
+      "purple_wall_banner": "Purple Wall Banner",
+      "blue_wall_banner": "Blue Wall Banner",
+      "brown_wall_banner": "Brown Wall Banner",
+      "green_wall_banner": "Green Wall Banner",
+      "red_wall_banner": "Red Wall Banner",
+      "black_wall_banner": "Black Wall Banner"
+    }
+  },
+  "bedrock": {
+    "key": "bedrock",
+    "title": "Bedrock",
+    "link": "/Bedrock",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "n/a"
+    },
+    "renewable": false,
+    "flammable": false,
+    "availability": "in the creative inventory only",
+    "drops": [],
+    "data_value": "dec: 07 hex: 7 bin: 111",
+    "name": "bedrock"
+  },
+  "beetroot_seeds": {
+    "key": "beetroot_seeds",
+    "title": "Beetroot Seeds",
+    "link": "/Beetroot_Seeds",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_values": {
+      "beetroots": "Beetroots",
+      "beetroot_seeds": "Beetroot Seeds"
+    },
+    "name": {
+      "beetroots": "Beetroots",
+      "beetroot_seeds": "Beetroot Seeds"
+    }
+  },
+  "block_of_coal": {
+    "key": "block_of_coal",
+    "title": "Block of Coal",
+    "link": "/Block_of_Coal",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "drops": [],
+    "data_value": "dec: 173 hex: ad bin: 10101101",
+    "name": "coal_block"
+  },
+  "block_of_diamond": {
+    "key": "block_of_diamond",
+    "title": "Block of Diamond",
+    "link": "/Block_of_Diamond",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 57 hex: 39 bin: 111001",
+    "name": "diamond_block"
+  },
+  "block_of_emerald": {
+    "key": "block_of_emerald",
+    "title": "Block of Emerald",
+    "link": "/Block_of_Emerald",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 133 hex: 85 bin: 10000101",
+    "name": "emerald_block"
+  },
+  "block_of_gold": {
+    "key": "block_of_gold",
+    "title": "Block of Gold",
+    "link": "/Block_of_Gold",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 41 hex: 29 bin: 101001",
+    "name": "gold_block"
+  },
+  "block_of_iron": {
+    "key": "block_of_iron",
+    "title": "Block of Iron",
+    "link": "/Block_of_Iron",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 42 hex: 2a bin: 101010",
+    "name": "iron_block"
+  },
+  "block_of_quartz": {
+    "key": "block_of_quartz",
+    "title": "Block of Quartz",
+    "link": "/Block_of_Quartz",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 155 hex: 9b bin: 10011011",
+    "name": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": "",
+      "9": "",
+      "10": "",
+      "11": "",
+      "12": "",
+      "13": "",
+      "14": ""
+    }
+  },
+  "bone_block": {
+    "key": "bone_block",
+    "title": "Bone Block",
+    "link": "/Bone_Block",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 216 hex: d8 bin: 11011000",
+    "name": "bone_block"
+  },
+  "bookshelf": {
+    "key": "bookshelf",
+    "title": "Bookshelf",
+    "link": "/Bookshelf",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "axe",
+      "name": "Axe",
+      "link": "/Axe"
+    },
+    "renewable": true,
+    "flammable": true,
+    "drops": [
+      {
+        "key": "book",
+        "name": "Book",
+        "link": "/Book"
+      }
+    ],
+    "data_value": "dec: 47 hex: 2f bin: 101111",
+    "name": "bookshelf"
+  },
+  "bricks": {
+    "key": "bricks",
+    "title": "Bricks",
+    "link": "/Bricks",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 45 hex: 2d bin: 101101",
+    "name": {}
+  },
+  "cactus": {
+    "key": "cactus",
+    "title": "Cactus",
+    "link": "/Cactus",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "flammable": false,
+    "experience": "smelted: 0.2",
+    "drops": [],
+    "data_value": "dec: 81 hex: 51 bin: 1010001",
+    "name": "cactus"
+  },
+  "carpet": {
+    "key": "carpet",
+    "title": "Carpet",
+    "link": "/White_Carpet",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "flammable": true,
+    "drops": [],
+    "data_value": "dec: 171 hex: ab bin: 10101011",
+    "name": {
+      "white_carpet": "White Carpet",
+      "orange_carpet": "Orange Carpet",
+      "magenta_carpet": "Magenta Carpet",
+      "light_blue_carpet": "Light Blue Carpet",
+      "yellow_carpet": "Yellow Carpet",
+      "lime_carpet": "Lime Carpet",
+      "pink_carpet": "Pink Carpet",
+      "gray_carpet": "Gray Carpet",
+      "light_gray_carpet": "Light Gray Carpet",
+      "cyan_carpet": "Cyan Carpet",
+      "purple_carpet": "Purple Carpet",
+      "blue_carpet": "Blue Carpet",
+      "brown_carpet": "Brown Carpet",
+      "green_carpet": "Green Carpet",
+      "red_carpet": "Red Carpet",
+      "black_carpet": "Black Carpet"
+    }
+  },
+  "carrot": {
+    "key": "carrot",
+    "title": "Carrot",
+    "link": "/Carrot",
+    "type": "food",
+    "restores": "3 ()",
+    "cookable": "no",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_values": {
+      "carrots": "Block",
+      "carrot": "Item"
+    },
+    "name": "blockcarrotsitemcarrot"
+  },
+  "chest": {
+    "key": "chest",
+    "title": "Chest",
+    "link": "/Chest",
+    "type": "tile entity",
+    "requirements": "none",
+    "physics": "no",
+    "transparency": true,
+    "luminance": false,
+    "hardness": "2.5",
+    "tool": {
+      "key": "axe",
+      "name": "Axe",
+      "link": "/Axe"
+    },
+    "renewable": true,
+    "first_appearances": "see history",
+    "drops": [
+      {
+        "key": "chest",
+        "name": "Chest"
+      }
+    ],
+    "block_entity_id": "chest",
+    "data_value": "dec: 54 hex: 36 bin: 110110",
+    "name": "chest"
+  },
+  "chorus_flower": {
+    "key": "chorus_flower",
+    "title": "Chorus Flower",
+    "link": "/Chorus_Flower",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "axe",
+      "name": "Axe",
+      "link": "/Axe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "sounds": "growthhttps://minecraft.gamepedia.com/file:chorus_flower_grow.oggdeathhttps://minecraft.gamepedia.com/file:chorus_flower_death.ogg",
+    "drops": [],
+    "data_value": "dec: 200 hex: c8 bin: 11001000",
+    "name": "chorus_flower"
+  },
+  "clay": {
+    "key": "clay",
+    "title": "Clay",
+    "link": "/Clay_(block)",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "shovel",
+      "name": "Shovel",
+      "link": "/Shovel"
+    },
+    "renewable": false,
+    "flammable": false,
+    "experience": "smelted: 0.35",
+    "drops": [
+      {
+        "key": "clay",
+        "name": "Clay",
+        "link": "/Clay"
+      }
+    ],
+    "data_value": "dec: 82 hex: 52 bin: 1010010",
+    "name": "clay"
+  },
+  "coal_ore": {
+    "key": "coal_ore",
+    "title": "Coal Ore",
+    "link": "/Coal_Ore",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "experience": "mined: 0–2smelted: 0.1",
+    "drops": [
+      {
+        "key": "coal",
+        "name": "Coal",
+        "link": "/Coal"
+      }
+    ],
+    "data_value": "dec: 16 hex: 10 bin: 10000",
+    "name": "coal_ore"
+  },
+  "cobblestone": {
+    "key": "cobblestone",
+    "title": "Cobblestone",
+    "link": "/Cobblestone",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "experience": "smelted: 0.1",
+    "drops": [],
+    "data_value": "dec: 4 hex: 4 bin: 100",
+    "name": "cobblestone"
+  },
+  "cobblestone_wall": {
+    "key": "cobblestone_wall",
+    "title": "Cobblestone Wall",
+    "link": "/Cobblestone_Wall",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 139 hex: 8b bin: 10001011",
+    "name": {
+      "cobblestone_wall": "Cobblestone Wall",
+      "mossy_cobblestone_wall": "Mossy Cobblestone Wall"
+    }
+  },
+  "cobweb": {
+    "key": "cobweb",
+    "title": "Cobweb",
+    "link": "/Cobweb",
+    "luminance": false,
+    "tools": "",
+    "renewable": false,
+    "flammable": false,
+    "drops": [
+      {
+        "key": "string",
+        "name": "String",
+        "link": "/String"
+      }
+    ],
+    "data_value": "dec: 30 hex: 1e bin: 11110",
+    "name": {}
+  },
+  "cocoa_beans": {
+    "key": "cocoa_beans",
+    "title": "Cocoa Beans",
+    "link": "/Cocoa_Beans",
+    "type": "dyes",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 3513 hex: 15f3 bin: 1010111113",
+    "name": {
+      "cocoa_beans": "Cocoa Beans"
+    }
+  },
+  "concrete": {
+    "key": "concrete",
+    "title": "Concrete",
+    "link": "/White_Concrete",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_values": {
+      "white_concrete": "White Concrete",
+      "orange_concrete": "Orange Concrete",
+      "magenta_concrete": "Magenta Concrete",
+      "light_blue_concrete": "Light Blue Concrete",
+      "yellow_concrete": "Yellow Concrete",
+      "lime_concrete": "Lime Concrete",
+      "pink_concrete": "Pink Concrete",
+      "gray_concrete": "Gray Concrete",
+      "light_gray_concrete": "Light Gray Concrete",
+      "cyan_concrete": "Cyan Concrete",
+      "purple_concrete": "Purple Concrete",
+      "blue_concrete": "Blue Concrete",
+      "brown_concrete": "Brown Concrete",
+      "green_concrete": "Green Concrete",
+      "red_concrete": "Red Concrete",
+      "black_concrete": "Black Concrete"
+    },
+    "name": {
+      "white_concrete": "White Concrete",
+      "orange_concrete": "Orange Concrete",
+      "magenta_concrete": "Magenta Concrete",
+      "light_blue_concrete": "Light Blue Concrete",
+      "yellow_concrete": "Yellow Concrete",
+      "lime_concrete": "Lime Concrete",
+      "pink_concrete": "Pink Concrete",
+      "gray_concrete": "Gray Concrete",
+      "light_gray_concrete": "Light Gray Concrete",
+      "cyan_concrete": "Cyan Concrete",
+      "purple_concrete": "Purple Concrete",
+      "blue_concrete": "Blue Concrete",
+      "brown_concrete": "Brown Concrete",
+      "green_concrete": "Green Concrete",
+      "red_concrete": "Red Concrete",
+      "black_concrete": "Black Concrete"
+    }
+  },
+  "concrete_powderfalling_block": {
+    "key": "concrete_powderfalling_block",
+    "title": "Concrete PowderFalling Block",
+    "link": "/White_Concrete_Powder",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "shovel",
+      "name": "Shovel",
+      "link": "/Shovel"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_values": {
+      "white_concrete_powder": "White Concrete Powder",
+      "orange_concrete_powder": "Orange Concrete Powder",
+      "magenta_concrete_powder": "Magenta Concrete Powder",
+      "light_blue_concrete_powder": "Light Blue Concrete Powder",
+      "yellow_concrete_powder": "Yellow Concrete Powder",
+      "lime_concrete_powder": "Lime Concrete Powder",
+      "pink_concrete_powder": "Pink Concrete Powder",
+      "gray_concrete_powder": "Gray Concrete Powder",
+      "light_gray_concrete_powder": "Light Gray Concrete Powder",
+      "cyan_concrete_powder": "Cyan Concrete Powder",
+      "purple_concrete_powder": "Purple Concrete Powder",
+      "blue_concrete_powder": "Blue Concrete Powder",
+      "brown_concrete_powder": "Brown Concrete Powder",
+      "green_concrete_powder": "Green Concrete Powder",
+      "red_concrete_powder": "Red Concrete Powder",
+      "black_concrete_powder": "Black Concrete Powder"
+    },
+    "name": {
+      "white_concrete_powder": "White Concrete Powder",
+      "orange_concrete_powder": "Orange Concrete Powder",
+      "magenta_concrete_powder": "Magenta Concrete Powder",
+      "light_blue_concrete_powder": "Light Blue Concrete Powder",
+      "yellow_concrete_powder": "Yellow Concrete Powder",
+      "lime_concrete_powder": "Lime Concrete Powder",
+      "pink_concrete_powder": "Pink Concrete Powder",
+      "gray_concrete_powder": "Gray Concrete Powder",
+      "light_gray_concrete_powder": "Light Gray Concrete Powder",
+      "cyan_concrete_powder": "Cyan Concrete Powder",
+      "purple_concrete_powder": "Purple Concrete Powder",
+      "blue_concrete_powder": "Blue Concrete Powder",
+      "brown_concrete_powder": "Brown Concrete Powder",
+      "green_concrete_powder": "Green Concrete Powder",
+      "red_concrete_powder": "Red Concrete Powder",
+      "black_concrete_powder": "Black Concrete Powder"
+    },
+    "internal_id": "je: 21be: 66",
+    "network_id": "je: 70",
+    "entity_id": "falling_block"
+  },
+  "coral": {
+    "key": "coral",
+    "title": "Coral",
+    "link": "/Tube_Coral",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "name": {
+      "tube_coral": "Tube Coral",
+      "brain_coral": "Brain Coral",
+      "bubble_coral": "Bubble Coral",
+      "fire_coral": "Fire Coral",
+      "horn_coral": "Horn Coral"
+    }
+  },
+  "coral_block": {
+    "key": "coral_block",
+    "title": "Coral Block",
+    "link": "/Dead_Tube_Coral_Block",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [
+      {
+        "key": "dead",
+        "name": "Dead",
+        "link": "/Dead_Coral_Block"
+      }
+    ],
+    "name": {
+      "tube_coral_block": "Tube Coral Block",
+      "brain_coral_block": "Brain Coral Block",
+      "bubble_coral_block": "Bubble Coral Block",
+      "fire_coral_block": "Fire Coral Block",
+      "horn_coral_block": "Horn Coral Block",
+      "dead_tube_coral_block": "Dead Tube Coral Block",
+      "dead_brain_coral_block": "Dead Brain Coral Block",
+      "dead_bubble_coral_block": "Dead Bubble Coral Block",
+      "dead_fire_coral_block": "Dead Fire Coral Block",
+      "dead_horn_coral_block": "Dead Horn Coral Block"
+    }
+  },
+  "coral_fan": {
+    "key": "coral_fan",
+    "title": "Coral Fan",
+    "link": "/Dead_Tube_Coral_Fan",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "name": {
+      "tube_coral_fan": "Tube Coral Fan",
+      "brain_coral_fan": "Brain Coral Fan",
+      "bubble_coral_fan": "Bubble Coral Fan",
+      "fire_coral_fan": "Fire Coral Fan",
+      "horn_coral_fan": "Horn Coral Fan",
+      "dead_tube_coral_fan": "Dead Tube Coral Fan",
+      "dead_brain_coral_fan": "Dead Brain Coral Fan",
+      "dead_bubble_coral_fan": "Dead Bubble Coral Fan",
+      "dead_fire_coral_fan": "Dead Fire Coral Fan",
+      "dead_horn_coral_fan": "Dead Horn Coral Fan",
+      "tube_coral_wall_fan": "Tube Coral Wall Fan",
+      "brain_coral_wall_fan": "Brain Coral Wall Fan",
+      "bubble_coral_wall_fan": "Bubble Coral Wall Fan",
+      "fire_coral_wall_fan": "Fire Coral Wall Fan",
+      "horn_coral_wall_fan": "Horn Coral Wall Fan",
+      "dead_tube_coral_wall_fan": "Dead Tube Coral Wall Fan",
+      "dead_brain_coral_wall_fan": "Dead Brain Coral Wall Fan",
+      "dead_bubble_coral_wall_fan": "Dead Bubble Coral Wall Fan",
+      "dead_fire_coral_wall_fan": "Dead Fire Coral Wall Fan",
+      "dead_horn_coral_wall_fan": "Dead Horn Coral Wall Fan"
+    }
+  },
+  "dead_bush": {
+    "key": "dead_bush",
+    "title": "Dead Bush",
+    "link": "/Dead_Bush",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "shears",
+      "name": "Shears",
+      "link": "/Shears"
+    },
+    "renewable": false,
+    "drops": [
+      {
+        "key": "stick",
+        "name": "Stick",
+        "link": "/Stick"
+      }
+    ],
+    "data_value": "dec: 32 hex: 20 bin: 100000",
+    "name": {}
+  },
+  "diamond_ore": {
+    "key": "diamond_ore",
+    "title": "Diamond Ore",
+    "link": "/Diamond_Ore",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "experience": "mined: 3–7smelted: 1",
+    "drops": [
+      {
+        "key": "diamond",
+        "name": "Diamond",
+        "link": "/Diamond"
+      }
+    ],
+    "data_value": "dec: 56 hex: 38 bin: 111000",
+    "name": "diamond_ore"
+  },
+  "dirt": {
+    "key": "dirt",
+    "title": "Dirt",
+    "link": "/Dirt",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "shovel",
+      "name": "Shovel",
+      "link": "/Shovel"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_values": {
+      "dirt": "Dirt"
+    },
+    "name": {
+      "dirt": "Dirt"
+    }
+  },
+  "dragon_eggfalling_block": {
+    "key": "dragon_eggfalling_block",
+    "title": "Dragon EggFalling Block",
+    "link": "/Dragon_Egg",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "n/a"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 122 hex: 7a bin: 1111010",
+    "name": "dragon_egg",
+    "internal_id": "je: 21be: 66",
+    "network_id": "je: 70",
+    "entity_id": "falling_block"
+  },
+  "dried_kelp_block": {
+    "key": "dried_kelp_block",
+    "title": "Dried Kelp Block",
+    "link": "/Dried_Kelp_Block",
+    "transparency": false,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "drops": [],
+    "name": "dried_kelp_block"
+  },
+  "emerald_ore": {
+    "key": "emerald_ore",
+    "title": "Emerald Ore",
+    "link": "/Emerald_Ore",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "experience": "mined: 3–7smelted: 1",
+    "drops": [
+      {
+        "key": "emerald",
+        "name": "Emerald",
+        "link": "/Emerald"
+      }
+    ],
+    "data_value": "dec: 129 hex: 81 bin: 10000001",
+    "name": "emerald_ore"
+  },
+  "end_gateway": {
+    "key": "end_gateway",
+    "title": "End Gateway",
+    "link": "/End_Gateway_(block)",
+    "type": "non-solid block (solid in bedrock edition if placed via world editing or add-ons)",
+    "physics": "no",
+    "transparency": false,
+    "luminance": false,
+    "hardness": "-1",
+    "tool": {
+      "key": "n/a"
+    },
+    "renewable": false,
+    "flammable": false,
+    "first_appearances": "see history",
+    "drops": [],
+    "block_entity_id": "end_gateway",
+    "data_value": "dec: 209 hex: d1 bin: 11010001",
+    "name": "end_gateway"
+  },
+  "end_portal": {
+    "key": "end_portal",
+    "title": "End Portal",
+    "link": "/End_Portal_Frame",
+    "luminance": false,
+    "tool": {
+      "key": "n/a"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 120 hex: 78 bin: 1111000",
+    "name": "end_portal_frame"
+  },
+  "end_stone": {
+    "key": "end_stone",
+    "title": "End Stone",
+    "link": "/End_Stone",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 121 hex: 79 bin: 1111001",
+    "name": "end_stone"
+  },
+  "end_stone_bricks": {
+    "key": "end_stone_bricks",
+    "title": "End Stone Bricks",
+    "link": "/End_Stone_Bricks",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 206 hex: ce bin: 11001110",
+    "name": {}
+  },
+  "fence": {
+    "key": "fence",
+    "title": "Fence",
+    "link": "/Oak_Fence",
+    "transparency": true,
+    "luminance": false,
+    "tools": "",
+    "drops": [],
+    "data_values": {
+      "oak_fence": "Oak Fence",
+      "spruce_fence": "Spruce Fence",
+      "birch_fence": "Birch Fence",
+      "jungle_fence": "Jungle Fence",
+      "acacia_fence": "Acacia Fence",
+      "dark_oak_fence": "Dark Oak Fence",
+      "nether_brick_fence": "Nether Brick Fence"
+    },
+    "name": {
+      "oak_fence": "Oak Fence",
+      "spruce_fence": "Spruce Fence",
+      "birch_fence": "Birch Fence",
+      "jungle_fence": "Jungle Fence",
+      "acacia_fence": "Acacia Fence",
+      "dark_oak_fence": "Dark Oak Fence",
+      "nether_brick_fence": "Nether Brick Fence"
+    }
+  },
+  "fire": {
+    "key": "fire",
+    "title": "Fire",
+    "link": "/Fire",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 51 hex: 33 bin: 110011",
+    "name": "fire"
+  },
+  "flower": {
+    "key": "flower",
+    "title": "Flower",
+    "link": "/Flower",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "drops": [],
+    "data_values": {
+      "dandelion": "Dandelion",
+      "poppy": "Poppy",
+      "blue_orchid": "Blue Orchid",
+      "allium": "Allium",
+      "azure_bluet": "Azure Bluet",
+      "red_tulip": "Red Tulip",
+      "orange_tulip": "Orange Tulip",
+      "white_tulip": "White Tulip",
+      "pink_tulip": "Pink Tulip",
+      "oxeye_daisy": "Oxeye Daisy",
+      "sunflower": "Sunflower",
+      "lilac": "Lilac",
+      "rose_bush": "Rose Bush",
+      "peony": "Peony"
+    },
+    "name": {
+      "dandelion": "Dandelion",
+      "poppy": "Poppy",
+      "blue_orchid": "Blue Orchid",
+      "allium": "Allium",
+      "azure_bluet": "Azure Bluet",
+      "red_tulip": "Red Tulip",
+      "orange_tulip": "Orange Tulip",
+      "white_tulip": "White Tulip",
+      "pink_tulip": "Pink Tulip",
+      "oxeye_daisy": "Oxeye Daisy",
+      "sunflower": "Sunflower",
+      "lilac": "Lilac",
+      "rose_bush": "Rose Bush",
+      "peony": "Peony"
+    }
+  },
+  "glowstone": {
+    "key": "glowstone",
+    "title": "Glowstone",
+    "link": "/Glowstone",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "flammable": false,
+    "drops": [
+      {
+        "key": "glowstone",
+        "name": "Glowstone",
+        "link": "/Glowstone_Dust"
+      }
+    ],
+    "data_value": "dec: 89 hex: 59 bin: 1011001",
+    "name": "glowstone"
+  },
+  "gold_ore": {
+    "key": "gold_ore",
+    "title": "Gold Ore",
+    "link": "/Gold_Ore",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "experience": "smelted: 1",
+    "drops": [],
+    "data_value": "dec: 14 hex: e bin: 1110",
+    "name": "gold_ore"
+  },
+  "grass": {
+    "key": "grass",
+    "title": "Grass",
+    "link": "/Grass",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "shears",
+      "name": "Shears",
+      "link": "/Shears"
+    },
+    "flammable": true,
+    "drops": [
+      {
+        "key": "seeds",
+        "name": "Seeds",
+        "link": "/Seeds"
+      }
+    ],
+    "data_values": {
+      "grass": "Grass",
+      "fern": "Fern",
+      "tall_grass": "Tall Grass",
+      "large_fern": "Large Fern"
+    },
+    "name": {
+      "grass": "Grass",
+      "fern": "Fern",
+      "tall_grass": "Tall Grass",
+      "large_fern": "Large Fern"
+    }
+  },
+  "grass_block": {
+    "key": "grass_block",
+    "title": "Grass Block",
+    "link": "/Grass_Block",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "shovel",
+      "name": "Shovel",
+      "link": "/Shovel"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [
+      {
+        "key": "dirt",
+        "name": "Dirt",
+        "link": "/Dirt"
+      }
+    ],
+    "data_values": {
+      "grass_block": "Grass Block"
+    },
+    "name": {
+      "grass_block": "Grass Block"
+    }
+  },
+  "gravelfalling_block": {
+    "key": "gravelfalling_block",
+    "title": "GravelFalling Block",
+    "link": "/Gravel",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "shovel",
+      "name": "Shovel",
+      "link": "/Shovel"
+    },
+    "flammable": false,
+    "drops": [
+      {
+        "key": "gravel",
+        "name": "Gravel"
+      },
+      {
+        "key": "flint",
+        "name": "Flint",
+        "link": "/Flint"
+      }
+    ],
+    "data_value": "dec: 13 hex: d bin: 1101",
+    "name": "gravel",
+    "internal_id": "je: 21be: 66",
+    "network_id": "je: 70",
+    "entity_id": "falling_block"
+  },
+  "ice": {
+    "key": "ice",
+    "title": "Ice",
+    "link": "/Ice",
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 79 hex: 4f bin: 1001111",
+    "name": "ice"
+  },
+  "iron_ore": {
+    "key": "iron_ore",
+    "title": "Iron Ore",
+    "link": "/Iron_Ore",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "experience": "smelted: 0.7",
+    "drops": [],
+    "data_value": "dec: 15 hex: f bin: 1111",
+    "name": "iron_ore"
+  },
+  "kelp": {
+    "key": "kelp",
+    "title": "Kelp",
+    "link": "/Kelp",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "name": {
+      "kelp": "Kelp",
+      "kelp_plant": "Kelp Plant"
+    }
+  },
+  "lapis_lazuli_ore": {
+    "key": "lapis_lazuli_ore",
+    "title": "Lapis Lazuli Ore",
+    "link": "/Lapis_Lazuli_Ore",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "experience": "mined: 2–5smelted: 0.2",
+    "drops": [
+      {
+        "key": "lapis",
+        "name": "Lapis",
+        "link": "/Lapis_Lazuli"
+      }
+    ],
+    "data_value": "dec: 21 hex: 15 bin: 10101",
+    "name": "lapis_ore"
+  },
+  "lavalava_bucket": {
+    "key": "lavalava_bucket",
+    "title": "LavaLava Bucket",
+    "link": "/Lava",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "bucket",
+      "name": "Bucket",
+      "link": "/Bucket"
+    },
+    "renewable": false,
+    "stackable": false,
+    "flammable": false,
+    "drops": [],
+    "data_values": {
+      "lava": "Lava",
+      "flowing_lava": "Flowing Lava",
+      "lava_bucket": "Lava Bucket"
+    },
+    "name": {
+      "lava": "Lava",
+      "flowing_lava": "Flowing Lava",
+      "lava_bucket": "Lava Bucket"
+    },
+    "type": "tools",
+    "first_appearances": "see history"
+  },
+  "leaves": {
+    "key": "leaves",
+    "title": "Leaves",
+    "link": "/Leaves",
+    "luminance": false,
+    "tool": {
+      "key": "shears",
+      "name": "Shears",
+      "link": "/Shears"
+    },
+    "renewable": true,
+    "flammable": true,
+    "drops": [
+      {
+        "key": "sapling",
+        "name": "Sapling",
+        "link": "/Sapling"
+      },
+      {
+        "key": "apple",
+        "name": "Apple",
+        "link": "/Apple"
+      }
+    ],
+    "data_values": {
+      "oak_leaves": "Oak Leaves",
+      "spruce_leaves": "Spruce Leaves",
+      "birch_leaves": "Birch Leaves",
+      "jungle_leaves": "Jungle Leaves",
+      "acacia_leaves": "Acacia Leaves",
+      "dark_oak_leaves": "Dark Oak Leaves"
+    },
+    "name": {
+      "oak_leaves": "Oak Leaves",
+      "spruce_leaves": "Spruce Leaves",
+      "birch_leaves": "Birch Leaves",
+      "jungle_leaves": "Jungle Leaves",
+      "acacia_leaves": "Acacia Leaves",
+      "dark_oak_leaves": "Dark Oak Leaves"
+    }
+  },
+  "lily_pad": {
+    "key": "lily_pad",
+    "title": "Lily Pad",
+    "link": "/Lily_Pad",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 111 hex: 6f bin: 1101111",
+    "name": {}
+  },
+  "magma_block": {
+    "key": "magma_block",
+    "title": "Magma Block",
+    "link": "/Magma_Block",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "drops": [],
+    "data_value": "dec: 213 hex: d5 bin: 11010101",
+    "name": {}
+  },
+  "melon": {
+    "key": "melon",
+    "title": "Melon",
+    "link": "/Melon_(block)",
+    "luminance": false,
+    "tools": "",
+    "renewable": true,
+    "flammable": false,
+    "drops": [
+      {
+        "key": "melon",
+        "name": "Melon"
+      }
+    ],
+    "data_value": "dec: 103 hex: 67 bin: 1100111",
+    "name": {}
+  },
+  "melon_seeds": {
+    "key": "melon_seeds",
+    "title": "Melon Seeds",
+    "link": "/Melon_Seeds",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "n/a"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [
+      {
+        "key": "melon",
+        "name": "Melon"
+      }
+    ],
+    "data_values": {
+      "melon_seeds": "Melon Seeds",
+      "melon_stem": "Melon Stem",
+      "attached_melon_stem": "Attached Melon Stem"
+    },
+    "name": {
+      "melon_seeds": "Melon Seeds",
+      "melon_stem": "Melon Stem",
+      "attached_melon_stem": "Attached Melon Stem"
+    }
+  },
+  "monster_egg": {
+    "key": "monster_egg",
+    "title": "Monster Egg",
+    "link": "/Stone_Monster_Egg",
+    "transparency": false,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 97 hex: 61 bin: 1100001",
+    "name": {
+      "infested_stone": "Infested Stone",
+      "infested_cobblestone": "Infested Cobblestone",
+      "infested_stone_bricks": "Infested Stone Bricks",
+      "infested_cracked_stone_bricks": "Infested Cracked Stone Bricks",
+      "infested_mossy_stone_bricks": "Infested Mossy Stone Bricks",
+      "infested_chiseled_stone_bricks": "Infested Chiseled Stone Bricks"
+    }
+  },
+  "monster_spawner": {
+    "key": "monster_spawner",
+    "title": "Monster Spawner",
+    "link": "/Monster_Spawner",
+    "type": "solid block",
+    "requirements": "none",
+    "physics": "no",
+    "luminance": false,
+    "hardness": "5",
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "first_appearances": "see history",
+    "experience": "mined: 15–43",
+    "drops": [],
+    "block_entity_id": "mob_spawner",
+    "data_value": "dec: 52 hex: 34 bin: 110100",
+    "name": {
+      "spawner": "Spawner"
+    }
+  },
+  "mushroom": {
+    "key": "mushroom",
+    "title": "Mushroom",
+    "link": "/Red_Mushroom",
+    "type": "ingredientblock",
+    "restores": "none",
+    "cookable": "no",
+    "renewable": true,
+    "luminance": false,
+    "first_appearances": "see history",
+    "data_values": {
+      "brown_mushroom": "Brown mushroom",
+      "red_mushroom": "Red mushroom"
+    },
+    "name": {
+      "brown_mushroom": "Brown mushroom",
+      "red_mushroom": "Red mushroom"
+    }
+  },
+  "mushroom_block": {
+    "key": "mushroom_block",
+    "title": "Mushroom Block",
+    "link": "/Red_Mushroom_Block",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "axe",
+      "name": "Axe",
+      "link": "/Axe"
+    },
+    "renewable": true,
+    "drops": [
+      {
+        "key": "mushroom",
+        "name": "Mushroom",
+        "link": "/Mushroom"
+      }
+    ],
+    "data_values": {
+      "brown_mushroom_block": "Brown Mushroom Block",
+      "red_mushroom_block": "Red Mushroom Block",
+      "mushroom_stem": "Mushroom Stem"
+    },
+    "name": {
+      "brown_mushroom_block": "Brown Mushroom Block",
+      "red_mushroom_block": "Red Mushroom Block",
+      "mushroom_stem": "Mushroom Stem"
+    }
+  },
+  "mycelium": {
+    "key": "mycelium",
+    "title": "Mycelium",
+    "link": "/Mycelium",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "shovel",
+      "name": "Shovel",
+      "link": "/Shovel"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [
+      {
+        "key": "dirt",
+        "name": "Dirt",
+        "link": "/Dirt"
+      }
+    ],
+    "data_value": "dec: 110 hex: 6e bin: 1101110",
+    "name": "mycelium"
+  },
+  "nether_brick": {
+    "key": "nether_brick",
+    "title": "Nether Brick",
+    "link": "/Nether_Bricks",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_values": {},
+    "name": {}
+  },
+  "nether_portal": {
+    "key": "nether_portal",
+    "title": "Nether Portal",
+    "link": "/Nether_Portal_(block)",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "n/a"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 90 hex: 5a bin: 1011010",
+    "name": {
+      "nether_portal": "Nether Portal"
+    }
+  },
+  "nether_quartz_ore": {
+    "key": "nether_quartz_ore",
+    "title": "Nether Quartz Ore",
+    "link": "/Nether_Quartz_Ore",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "experience": "mined: 2–5smelted: 0.2",
+    "drops": [
+      {
+        "key": "nether",
+        "name": "Nether",
+        "link": "/Nether_Quartz"
+      }
+    ],
+    "data_value": "dec: 153 hex: 99 bin: 10011001",
+    "name": {}
+  },
+  "nether_wart": {
+    "key": "nether_wart",
+    "title": "Nether Wart",
+    "link": "/Nether_Wart",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "flammable": false,
+    "drops": [
+      {
+        "key": "nether",
+        "name": "Nether"
+      },
+      {
+        "key": "nether",
+        "name": "Nether"
+      }
+    ],
+    "data_values": {
+      "": "1–2",
+      "Fully grown": "3"
+    },
+    "name": "nether_wart"
+  },
+  "netherrack": {
+    "key": "netherrack",
+    "title": "Netherrack",
+    "link": "/Netherrack",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "experience": "smelted: 0.1",
+    "drops": [],
+    "data_value": "dec: 87 hex: 57 bin: 1010111",
+    "name": "netherrack"
+  },
+  "obsidian": {
+    "key": "obsidian",
+    "title": "Obsidian",
+    "link": "/Obsidian",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 49 hex: 31 bin: 110001",
+    "name": "obsidian"
+  },
+  "potato": {
+    "key": "potato",
+    "title": "Potato",
+    "link": "/Potato",
+    "type": "food",
+    "restores": "1 ()",
+    "cookable": "yes",
+    "renewable": true,
+    "experience": "cooked: 0.35",
+    "first_appearances": "see history",
+    "data_values": {
+      "potatoes": "Block",
+      "potato": "Item"
+    },
+    "name": {
+      "potatoes": "Block",
+      "potato": "Item"
+    }
+  },
+  "prismarine": {
+    "key": "prismarine",
+    "title": "Prismarine",
+    "link": "/Prismarine",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 168 hex: a8 bin: 10101000",
+    "name": {
+      "prismarine": "Prismarine",
+      "prismarine_bricks": "Prismarine Bricks",
+      "dark_prismarine": "Dark Prismarine"
+    }
+  },
+  "pumpkin": {
+    "key": "pumpkin",
+    "title": "Pumpkin",
+    "link": "/Carved_Pumpkin",
+    "luminance": false,
+    "tool": {
+      "key": "axe",
+      "name": "Axe",
+      "link": "/Axe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "name": {
+      "pumpkin": "Pumpkin",
+      "carved_pumpkin": "Carved Pumpkin"
+    }
+  },
+  "pumpkin_seeds": {
+    "key": "pumpkin_seeds",
+    "title": "Pumpkin Seeds",
+    "link": "/Pumpkin_Seeds",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "n/a"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [
+      {
+        "key": "pumpkin",
+        "name": "Pumpkin"
+      }
+    ],
+    "name": {
+      "pumpkin_seeds": "Pumpkin Seeds",
+      "pumpkin_stem": "Pumpkin Stem",
+      "attached_pumpkin_stem": "Attached Pumpkin Stem"
+    }
+  },
+  "purpur_block": {
+    "key": "purpur_block",
+    "title": "Purpur Block",
+    "link": "/Purpur_Block",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_values": {
+      "purpur_block": "Purpur Block",
+      "purpur_pillar": "Purpur Pillar"
+    },
+    "name": {
+      "purpur_block": "Purpur Block",
+      "purpur_pillar": "Purpur Pillar"
+    }
+  },
+  "rail": {
+    "key": "rail",
+    "title": "Rail",
+    "link": "/Rail",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 66 hex: 42 bin: 1000010",
+    "name": "rail"
+  },
+  "redstone_ore": {
+    "key": "redstone_ore",
+    "title": "Redstone Ore",
+    "link": "/Redstone_Ore",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "experience": "mined: 1–5smelted: 0.7",
+    "drops": [
+      {
+        "key": "redstone",
+        "name": "Redstone",
+        "link": "/Redstone"
+      }
+    ],
+    "data_values": {
+      "redstone_ore": "Redstone Ore"
+    },
+    "name": {
+      "redstone_ore": "Redstone Ore"
+    }
+  },
+  "sandfalling_block": {
+    "key": "sandfalling_block",
+    "title": "SandFalling Block",
+    "link": "/Sand",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "shovel",
+      "name": "Shovel",
+      "link": "/Shovel"
+    },
+    "renewable": false,
+    "flammable": false,
+    "experience": "smelted: 0.1",
+    "drops": [],
+    "data_values": {
+      "sand": "Sand",
+      "red_sand": "Red Sand"
+    },
+    "name": {
+      "sand": "Sand",
+      "red_sand": "Red Sand"
+    },
+    "internal_id": "je: 21be: 66",
+    "network_id": "je: 70",
+    "entity_id": "falling_block"
+  },
+  "sandstone": {
+    "key": "sandstone",
+    "title": "Sandstone",
+    "link": "/Sandstone",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_values": {
+      "sandstone": "Sandstone",
+      "cut_sandstone": "Cut Sandstone",
+      "chiseled_sandstone": "Chiseled Sandstone",
+      "smooth_sandstone": "Smooth Sandstone",
+      "red_sandstone": "Red Sandstone",
+      "cut_red_sandstone": "Cut Red Sandstone",
+      "chiseled_red_sandstone": "Chiseled Red Sandstone",
+      "smooth_red_sandstone": "Smooth Red Sandstone"
+    },
+    "name": {
+      "sandstone": "Sandstone",
+      "cut_sandstone": "Cut Sandstone",
+      "chiseled_sandstone": "Chiseled Sandstone",
+      "smooth_sandstone": "Smooth Sandstone",
+      "red_sandstone": "Red Sandstone",
+      "cut_red_sandstone": "Cut Red Sandstone",
+      "chiseled_red_sandstone": "Chiseled Red Sandstone",
+      "smooth_red_sandstone": "Smooth Red Sandstone"
+    }
+  },
+  "sapling": {
+    "key": "sapling",
+    "title": "Sapling",
+    "link": "/Sapling",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 06 hex: 6 bin: 110",
+    "name": {
+      "oak_sapling": "Oak Sapling",
+      "spruce_sapling": "Spruce Sapling",
+      "birch_sapling": "Birch Sapling",
+      "jungle_sapling": "Jungle Sapling",
+      "acacia_sapling": "Acacia Sapling",
+      "dark_oak_sapling": "Dark Oak Sapling"
+    }
+  },
+  "sea_lantern": {
+    "key": "sea_lantern",
+    "title": "Sea Lantern",
+    "link": "/Sea_Lantern",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "flammable": false,
+    "drops": [
+      {
+        "key": "prismarine",
+        "name": "Prismarine",
+        "link": "/Prismarine_Crystals"
+      }
+    ],
+    "data_value": "dec: 169 hex: a9 bin: 10101001",
+    "name": {}
+  },
+  "seagrass": {
+    "key": "seagrass",
+    "title": "Seagrass",
+    "link": "/Seagrass",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "shears",
+      "name": "Shears",
+      "link": "/Shears"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "name": {
+      "seagrass": "Seagrass",
+      "tall_seagrass": "Tall Seagrass"
+    }
+  },
+  "snow": {
+    "key": "snow",
+    "title": "Snow",
+    "link": "/Snow",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "shovel",
+      "name": "Shovel",
+      "link": "/Shovel"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [
+      {
+        "key": "snowball",
+        "name": "Snowball",
+        "link": "/Snowball"
+      }
+    ],
+    "data_value": "dec: 78 hex: 4e bin: 1001110",
+    "name": {
+      "snow": "Snow"
+    }
+  },
+  "soul_sand": {
+    "key": "soul_sand",
+    "title": "Soul Sand",
+    "link": "/Soul_Sand",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "shovel",
+      "name": "Shovel",
+      "link": "/Shovel"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 88 hex: 58 bin: 1011000",
+    "name": "soul_sand"
+  },
+  "sponge": {
+    "key": "sponge",
+    "title": "Sponge",
+    "link": "/Sponge",
+    "transparency": false,
+    "luminance": false,
+    "tool": "any",
+    "flammable": false,
+    "drops": [],
+    "data_value": "dec: 19 hex: 13 bin: 10011",
+    "name": {
+      "sponge": "Sponge",
+      "wet_sponge": "Wet Sponge"
+    }
+  },
+  "stone": {
+    "key": "stone",
+    "title": "Stone",
+    "link": "/Stone",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": true,
+    "flammable": false,
+    "drops": [
+      {
+        "key": "cobblestone",
+        "name": "Cobblestone",
+        "link": "/Cobblestone"
+      }
+    ],
+    "data_value": "dec: 01 hex: 1 bin: 1",
+    "name": {
+      "stone": "Stone",
+      "smooth_stone": "Smooth Stone"
+    }
+  },
+  "structure_blockstructure_void": {
+    "key": "structure_blockstructure_void",
+    "title": "Structure BlockStructure Void",
+    "link": "/Structure_Block",
+    "type": "solid block",
+    "requirements": "none",
+    "physics": "no",
+    "transparency": true,
+    "luminance": false,
+    "hardness": "-1",
+    "tool": {
+      "key": "n/a"
+    },
+    "renewable": false,
+    "flammable": false,
+    "drops": [],
+    "block_entity_id": "structure_block",
+    "data_values": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "name": "structure_void[java edition only]",
+    "data_value": "dec: 217 hex: d9 bin: 11011001"
+  },
+  "sugar_cane": {
+    "key": "sugar_cane",
+    "title": "Sugar Cane",
+    "link": "/Sugar_Canes",
+    "transparency": true,
+    "luminance": false,
+    "tool": "any",
+    "renewable": true,
+    "flammable": false,
+    "drops": [],
+    "data_values": {
+      "sugar_cane": "Sugar Cane"
+    },
+    "name": {
+      "sugar_cane": "Sugar Cane"
+    }
+  },
+  "terracotta": {
+    "key": "terracotta",
+    "title": "Terracotta",
+    "link": "/Terracotta",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "pickaxe",
+      "name": "Pickaxe",
+      "link": "/Pickaxe"
+    },
+    "renewable": false,
+    "flammable": false,
+    "experience": "smelted: 0.1",
+    "drops": [],
+    "data_values": {
+      "terracotta": "Terracotta",
+      "white_terracotta": "White Terracotta",
+      "orange_terracotta": "Orange Terracotta",
+      "magenta_terracotta": "Magenta Terracotta",
+      "light_blue_terracotta": "Light Blue Terracotta",
+      "yellow_terracotta": "Yellow Terracotta",
+      "lime_terracotta": "Lime Terracotta",
+      "pink_terracotta": "Pink Terracotta",
+      "gray_terracotta": "Gray Terracotta",
+      "light_gray_terracotta": "Light Gray Terracotta",
+      "cyan_terracotta": "Cyan Terracotta",
+      "purple_terracotta": "Purple Terracotta",
+      "blue_terracotta": "Blue Terracotta",
+      "brown_terracotta": "Brown Terracotta",
+      "green_terracotta": "Green Terracotta",
+      "red_terracotta": "Red Terracotta",
+      "black_terracotta": "Black Terracotta"
+    },
+    "name": {
+      "terracotta": "Terracotta",
+      "white_terracotta": "White Terracotta",
+      "orange_terracotta": "Orange Terracotta",
+      "magenta_terracotta": "Magenta Terracotta",
+      "light_blue_terracotta": "Light Blue Terracotta",
+      "yellow_terracotta": "Yellow Terracotta",
+      "lime_terracotta": "Lime Terracotta",
+      "pink_terracotta": "Pink Terracotta",
+      "gray_terracotta": "Gray Terracotta",
+      "light_gray_terracotta": "Light Gray Terracotta",
+      "cyan_terracotta": "Cyan Terracotta",
+      "purple_terracotta": "Purple Terracotta",
+      "blue_terracotta": "Blue Terracotta",
+      "brown_terracotta": "Brown Terracotta",
+      "green_terracotta": "Green Terracotta",
+      "red_terracotta": "Red Terracotta",
+      "black_terracotta": "Black Terracotta"
+    }
+  },
+  "trapdoor": {
+    "key": "trapdoor",
+    "title": "Trapdoor",
+    "link": "/Oak_Trapdoor",
+    "transparency": true,
+    "luminance": false,
+    "tools": "",
+    "renewable": true,
+    "drops": [],
+    "data_values": {
+      "iron_trapdoor": "Iron Trapdoor",
+      "oak_trapdoor": "Oak Trapdoor",
+      "spruce_trapdoor": "Spruce Trapdoor",
+      "birch_trapdoor": "Birch Trapdoor",
+      "jungle_trapdoor": "Jungle Trapdoor",
+      "acacia_trapdoor": "Acacia Trapdoor",
+      "dark_oak_trapdoor": "Dark Oak Trapdoor"
+    },
+    "name": {
+      "iron_trapdoor": "Iron Trapdoor",
+      "oak_trapdoor": "Oak Trapdoor",
+      "spruce_trapdoor": "Spruce Trapdoor",
+      "birch_trapdoor": "Birch Trapdoor",
+      "jungle_trapdoor": "Jungle Trapdoor",
+      "acacia_trapdoor": "Acacia Trapdoor",
+      "dark_oak_trapdoor": "Dark Oak Trapdoor"
+    }
+  },
+  "vines": {
+    "key": "vines",
+    "title": "Vines",
+    "link": "/Vines",
+    "transparency": true,
+    "luminance": false,
+    "tool": {
+      "key": "shears",
+      "name": "Shears",
+      "link": "/Shears"
+    },
+    "renewable": true,
+    "flammable": true,
+    "drops": [],
+    "data_value": "dec: 106 hex: 6a bin: 1101010",
+    "name": "vine"
+  },
+  "waterwater_bucket": {
+    "key": "waterwater_bucket",
+    "title": "WaterWater Bucket",
+    "link": "/Water",
+    "luminance": false,
+    "tool": {
+      "key": "bucket",
+      "name": "Bucket",
+      "link": "/Bucket"
+    },
+    "renewable": true,
+    "stackable": false,
+    "flammable": false,
+    "drops": [],
+    "data_values": {
+      "water": "Water",
+      "flowing_lava": "Flowing Water",
+      "lava": "Water",
+      "water_bucket": "Water Bucket"
+    },
+    "name": {
+      "water": "Water",
+      "flowing_lava": "Flowing Water",
+      "lava": "Water",
+      "water_bucket": "Water Bucket"
+    },
+    "type": "tools",
+    "first_appearances": "see history"
+  },
+  "wood": {
+    "key": "wood",
+    "title": "Wood",
+    "link": "/Oak_Bark",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "axe",
+      "name": "Axe",
+      "link": "/Axe"
+    },
+    "renewable": true,
+    "flammable": true,
+    "experience": "smelted: 0.15",
+    "drops": [],
+    "name": {
+      "oak_wood": "Oak Wood",
+      "spruce_wood": "Spruce Wood",
+      "birch_wood": "Birch Wood",
+      "jungle_wood": "Jungle Wood",
+      "acacia_wood": "Acacia Wood",
+      "dark_oak_wood": "Dark Oak Wood",
+      "stripped_oak_wood": "Stripped Oak Wood",
+      "stripped_spruce_wood": "Stripped Spruce Wood",
+      "stripped_birch_wood": "Stripped Birch Wood",
+      "stripped_jungle_wood": "Stripped Jungle Wood",
+      "stripped_acacia_wood": "Stripped Acacia Wood",
+      "stripped_dark_oak_wood": "Stripped Dark Oak Wood"
+    }
+  },
+  "wool": {
+    "key": "wool",
+    "title": "Wool",
+    "link": "/White_Wool",
+    "transparency": false,
+    "luminance": false,
+    "tool": {
+      "key": "shears",
+      "name": "Shears",
+      "link": "/Shears"
+    },
+    "renewable": true,
+    "flammable": true,
+    "drops": [],
+    "data_value": "dec: 35 hex: 23 bin: 100011",
+    "name": {
+      "white_wool": "White Wool",
+      "orange_wool": "Orange Wool",
+      "magenta_wool": "Magenta Wool",
+      "light_blue_wool": "Light Blue Wool",
+      "yellow_wool": "Yellow Wool",
+      "lime_wool": "Lime Wool",
+      "pink_wool": "Pink Wool",
+      "gray_wool": "Gray Wool",
+      "light_gray_wool": "Light Gray Wool",
+      "cyan_wool": "Cyan Wool",
+      "purple_wool": "Purple Wool",
+      "blue_wool": "Blue Wool",
+      "brown_wool": "Brown Wool",
+      "green_wool": "Green Wool",
+      "red_wool": "Red Wool",
+      "black_wool": "Black Wool"
+    }
+  }
+}

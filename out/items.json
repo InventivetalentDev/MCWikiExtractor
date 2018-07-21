@@ -1,0 +1,1171 @@
+{
+  "": {
+    "key": "",
+    "title": "",
+    "link": "/Seeds"
+  },
+  "apple": {
+    "key": "apple",
+    "title": "Apple",
+    "link": "/Apple",
+    "type": "food",
+    "restores": "4 ()",
+    "cookable": "no",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 260 hex: 104 bin: 100000100",
+    "name": "apple"
+  },
+  "armor_stand": {
+    "key": "armor_stand",
+    "title": "Armor Stand",
+    "link": "/Armor_Stand",
+    "type": "decorations",
+    "renewable": true,
+    "stackable": true,
+    "flammable": "yes",
+    "internal_id": "30",
+    "network_id": "78",
+    "entity_id": "armor_stand",
+    "first_appearances": "see history",
+    "data_value": "dec: 416 hex: 1a0 bin: 110100000",
+    "name": "armor_stand"
+  },
+  "axe": {
+    "key": "axe",
+    "title": "Axe",
+    "link": "/Wooden_Axe",
+    "type": "tools",
+    "durability": "wood: 60 usesstone: 132 usesiron: 251 usesgolden: 33 usesdiamond: 1562 uses",
+    "renewable": true,
+    "stackable": false,
+    "first_appearances": "see history",
+    "data_values": "see data values",
+    "name": {
+      "wooden_axe": "Wooden Axe",
+      "stone_axe": "Stone Axe",
+      "iron_axe": "Iron Axe",
+      "diamond_axe": "Diamond Axe",
+      "golden_axe": "Golden Axe"
+    }
+  },
+  "beetroot": {
+    "key": "beetroot",
+    "title": "Beetroot",
+    "link": "/Beetroot",
+    "type": "food",
+    "restores": "1 ()",
+    "cookable": "no",
+    "renewable": true,
+    "luminance": "no",
+    "first_appearances": "see history",
+    "data_values": "je: dec: 434 hex: 1b2 bin: 110110010be: dec: 457 hex: 1c9 bin: 111001001",
+    "name": "beetroot"
+  },
+  "beetroot_soup": {
+    "key": "beetroot_soup",
+    "title": "Beetroot Soup",
+    "link": "/Beetroot_Soup",
+    "type": "food",
+    "restores": "6 ()",
+    "cookable": "no",
+    "renewable": true,
+    "stackable": false,
+    "first_appearances": "see history",
+    "data_values": "je: dec: 436 hex: 1b4 bin: 110110100be: dec: 459 hex: 1cb bin: 111001011",
+    "name": "beetroot_soup"
+  },
+  "blaze_powder": {
+    "key": "blaze_powder",
+    "title": "Blaze Powder",
+    "link": "/Blaze_Powder",
+    "type": "items",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 377 hex: 179 bin: 101111001",
+    "name": "blaze_powder"
+  },
+  "blaze_rod": {
+    "key": "blaze_rod",
+    "title": "Blaze Rod",
+    "link": "/Blaze_Rod",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 369 hex: 171 bin: 101110001",
+    "name": "blaze_rod"
+  },
+  "bone": {
+    "key": "bone",
+    "title": "Bone",
+    "link": "/Bone",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 352 hex: 160 bin: 101100000",
+    "name": "bone"
+  },
+  "bone_meal": {
+    "key": "bone_meal",
+    "title": "Bone Meal",
+    "link": "/Bone_Meal",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 35115 hex: 15f15 bin: 10101111115",
+    "name": {
+      "bone_meal": "Bone Meal"
+    }
+  },
+  "book": {
+    "key": "book",
+    "title": "Book",
+    "link": "/Book",
+    "type": "manufactured items",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 340 hex: 154 bin: 101010100",
+    "name": "book"
+  },
+  "book_and_quill": {
+    "key": "book_and_quill",
+    "title": "Book and Quill",
+    "link": "/Book_and_Quill",
+    "type": "manufactured items",
+    "renewable": true,
+    "stackable": false,
+    "first_appearances": "see history",
+    "data_value": "dec: 386 hex: 182 bin: 110000010",
+    "name": "writable_book"
+  },
+  "bowl": {
+    "key": "bowl",
+    "title": "Bowl",
+    "link": "/Bowl",
+    "type": "tools",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 281 hex: 119 bin: 100011001",
+    "name": "bowl"
+  },
+  "bread": {
+    "key": "bread",
+    "title": "Bread",
+    "link": "/Bread",
+    "type": "food",
+    "restores": "5 ()",
+    "cookable": "no",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 297 hex: 129 bin: 100101001",
+    "name": "bread"
+  },
+  "brick": {
+    "key": "brick",
+    "title": "Brick",
+    "link": "/Brick",
+    "type": "raw materials",
+    "renewable": false,
+    "first_appearances": "see history",
+    "data_value": "dec: 336 hex: 150 bin: 101010000",
+    "name": "brick"
+  },
+  "cactus_green": {
+    "key": "cactus_green",
+    "title": "Cactus Green",
+    "link": "/Cactus_Green",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 3512 hex: 15f2 bin: 1010111112",
+    "name": {
+      "cactus_green": "Cactus Green"
+    }
+  },
+  "cake": {
+    "key": "cake",
+    "title": "Cake",
+    "link": "/Cake",
+    "transparency": "yes",
+    "luminance": "no",
+    "blast_resistance": "2.5",
+    "tool": "any tool",
+    "renewable": true,
+    "flammable": "no",
+    "drops": "none",
+    "data_values": "blockdec: 92 hex: 5c bin: 1011100itemdec: 354 hex: 162 bin: 101100010",
+    "name": "cake"
+  },
+  "carrot": {
+    "key": "carrot",
+    "title": "Carrot",
+    "link": "/Carrot",
+    "type": "food",
+    "restores": "3 ()",
+    "cookable": "no",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_values": "blockdec: 141 hex: 8d bin: 10001101itemdec: 391 hex: 187 bin: 110000111",
+    "name": "blockcarrotsitemcarrot"
+  },
+  "chorus_fruit": {
+    "key": "chorus_fruit",
+    "title": "Chorus Fruit",
+    "link": "/Chorus_Fruit",
+    "type": "food",
+    "restores": "4 ()",
+    "cookable": "yes",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 432 hex: 1b0 bin: 110110000",
+    "name": "chorus_fruit"
+  },
+  "clay": {
+    "key": "clay",
+    "title": "Clay",
+    "link": "/Clay",
+    "type": "raw materials",
+    "renewable": false,
+    "experience": "smelting: 0.3",
+    "first_appearances": "see history",
+    "data_value": "dec: 337 hex: 151 bin: 101010001",
+    "name": "clay_ball"
+  },
+  "coal": {
+    "key": "coal",
+    "title": "Coal",
+    "link": "/Coal",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "name": {
+      "coal": "Coal",
+      "charcoal": "Charcoal"
+    }
+  },
+  "cocoa_beans": {
+    "key": "cocoa_beans",
+    "title": "Cocoa Beans",
+    "link": "/Cocoa_Beans",
+    "type": "dyes",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 3513 hex: 15f3 bin: 1010111113",
+    "name": {
+      "cocoa_beans": "Cocoa Beans"
+    }
+  },
+  "compound": {
+    "key": "compound",
+    "title": "Compound",
+    "link": "/Garbage",
+    "type": "material",
+    "renewable": true,
+    "first_appearances": "see history",
+    "name": "?"
+  },
+  "cookie": {
+    "key": "cookie",
+    "title": "Cookie",
+    "link": "/Cookie",
+    "type": "food",
+    "restores": "2 ()",
+    "cookable": "no",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 357 hex: 165 bin: 101100101",
+    "name": "cookie"
+  },
+  "cyan_dye": {
+    "key": "cyan_dye",
+    "title": "Cyan Dye",
+    "link": "/Cyan_Dye",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 3516 hex: 15f6 bin: 1010111116",
+    "name": {
+      "cyan_dye": "Cyan Dye"
+    }
+  },
+  "dandelion_yellow": {
+    "key": "dandelion_yellow",
+    "title": "Dandelion Yellow",
+    "link": "/Dandelion_Yellow",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 35111 hex: 15f11 bin: 10101111111",
+    "name": {
+      "dandelion_yellow": "Dandelion Yellow"
+    }
+  },
+  "diamond": {
+    "key": "diamond",
+    "title": "Diamond",
+    "link": "/Diamond",
+    "type": "raw materials",
+    "renewable": false,
+    "first_appearances": "see history",
+    "data_value": "dec: 264 hex: 108 bin: 100001000",
+    "name": "diamond"
+  },
+  "dragon's_breath": {
+    "key": "dragon's_breath",
+    "title": "Dragon's Breath",
+    "link": "/Dragon%27s_Breath",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 437 hex: 1b5 bin: 110110101",
+    "name": "dragon_breath"
+  },
+  "emerald": {
+    "key": "emerald",
+    "title": "Emerald",
+    "link": "/Emerald",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 388 hex: 184 bin: 110000100",
+    "name": "emerald"
+  },
+  "end_crystal": {
+    "key": "end_crystal",
+    "title": "End Crystal",
+    "link": "/End_Crystal",
+    "type": "decorations",
+    "renewable": true,
+    "internal_id": "je: 200be: 71",
+    "network_id": "je: 51",
+    "entity_id": "see data values",
+    "drops": "none",
+    "first_appearances": "see history",
+    "data_value": "dec: 426 hex: 1aa bin: 110101010",
+    "name": {
+      "end_crystal": "End Crystal"
+    }
+  },
+  "ender_pearl": {
+    "key": "ender_pearl",
+    "title": "Ender Pearl",
+    "link": "/Ender_Pearl",
+    "type": "raw materials",
+    "renewable": true,
+    "internal_id": "je: 14be: 87",
+    "network_id": "je: 65",
+    "entity_id": "ender_pearl",
+    "first_appearances": "see history",
+    "data_value": "dec: 368 hex: 170 bin: 101110000",
+    "name": "ender_pearl"
+  },
+  "eye_of_ender": {
+    "key": "eye_of_ender",
+    "title": "Eye of Ender",
+    "link": "/Eye_of_Ender",
+    "type": "items",
+    "renewable": true,
+    "internal_id": "je: 15be: 70",
+    "network_id": "je: 72",
+    "entity_id": "see data values",
+    "first_appearances": "see history",
+    "data_value": "dec: 381 hex: 17d bin: 101111101",
+    "name": {
+      "ender_eye": "Item",
+      "eye_of_ender": "Entity"
+    }
+  },
+  "feather": {
+    "key": "feather",
+    "title": "Feather",
+    "link": "/Feather",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 288 hex: 120 bin: 100100000",
+    "name": "feather"
+  },
+  "fermented_spider_eye": {
+    "key": "fermented_spider_eye",
+    "title": "Fermented Spider Eye",
+    "link": "/Fermented_Spider_Eye",
+    "type": "potion ingredient",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 376 hex: 178 bin: 101111000",
+    "name": "fermented_spider_eye"
+  },
+  "firework_rocket": {
+    "key": "firework_rocket",
+    "title": "Firework Rocket",
+    "link": "/Firework_Rocket",
+    "type": "manufactured items‎",
+    "durability": "0 (one use)",
+    "renewable": true,
+    "internal_id": "22",
+    "network_id": "76",
+    "entity_id": "see data values",
+    "first_appearances": "see history",
+    "data_value": "dec: 401 hex: 191 bin: 110010001",
+    "name": {
+      "firework_rocket": "Firework Rocket"
+    }
+  },
+  "firework_star": {
+    "key": "firework_star",
+    "title": "Firework Star",
+    "link": "/Firework_Star",
+    "type": "manufactured items‎",
+    "durability": "0 (data)",
+    "first_appearances": "see history",
+    "data_value": "dec: 402 hex: 192 bin: 110010010",
+    "name": {
+      "firework_star": "Firework Star"
+    }
+  },
+  "fish": {
+    "key": "fish",
+    "title": "Fish",
+    "link": "/Raw_Salmon",
+    "type": "food",
+    "restores": "see food",
+    "cookable": "raw fish and raw salmon: yesall others: no",
+    "renewable": true,
+    "experience": "cooked: 0.35caught: 1–6",
+    "first_appearances": "see history",
+    "data_values": "see data values",
+    "name": {
+      "cod": "Raw Cod",
+      "salmon": "Raw Salmon",
+      "tropical_fish": "Tropical Fish",
+      "pufferfish": "Pufferfish",
+      "cooked_cod": "Cooked Cod",
+      "cooked_salmon": "Cooked Salmon"
+    }
+  },
+  "fishing_rodfishing_hook": {
+    "key": "fishing_rodfishing_hook",
+    "title": "Fishing RodFishing Hook",
+    "link": "/Fishing_Rod",
+    "type": "tools",
+    "durability": "65",
+    "renewable": true,
+    "stackable": false,
+    "experience": "per catch: 1–3",
+    "first_appearances": "see history",
+    "data_value": "dec: 346 hex: 15a bin: 101011010",
+    "name": "fishing_rod",
+    "internal_id": "be: 77",
+    "network_id": "je: 90",
+    "entity_id": "je fishing_bobberbe: fishing_hook"
+  },
+  "flint": {
+    "key": "flint",
+    "title": "Flint",
+    "link": "/Flint",
+    "type": "raw materials",
+    "renewable": false,
+    "first_appearances": "see history",
+    "data_value": "dec: 318 hex: 13e bin: 100111110",
+    "name": "flint"
+  },
+  "flint_and_steel": {
+    "key": "flint_and_steel",
+    "title": "Flint and Steel",
+    "link": "/Flint_and_Steel",
+    "type": "tools",
+    "durability": "65",
+    "renewable": false,
+    "stackable": false,
+    "data_value": "dec: 259 hex: 103 bin: 100000011",
+    "name": "flint_and_steel"
+  },
+  "ghast_tear": {
+    "key": "ghast_tear",
+    "title": "Ghast Tear",
+    "link": "/Ghast_Tear",
+    "type": "items",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 370 hex: 172 bin: 101110010",
+    "name": "ghast_tear"
+  },
+  "glass_bottle": {
+    "key": "glass_bottle",
+    "title": "Glass Bottle",
+    "link": "/Glass_Bottle",
+    "type": "tools",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 374 hex: 176 bin: 101110110",
+    "name": "glass_bottle"
+  },
+  "glistering_melon_slice": {
+    "key": "glistering_melon_slice",
+    "title": "Glistering Melon Slice",
+    "link": "/Glistering_Melon",
+    "type": "items",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 382 hex: 17e bin: 101111110",
+    "name": {
+      "glistering_melon_slice": "Glistering Melon Slice"
+    }
+  },
+  "glowstone_dust": {
+    "key": "glowstone_dust",
+    "title": "Glowstone Dust",
+    "link": "/Glowstone_Dust",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 348 hex: 15c bin: 101011100",
+    "name": "glowstone_dust"
+  },
+  "gold_ingot": {
+    "key": "gold_ingot",
+    "title": "Gold Ingot",
+    "link": "/Gold_Ingot",
+    "type": "raw materials",
+    "renewable": true,
+    "data_value": "dec: 266 hex: 10a bin: 100001010",
+    "name": "gold_ingot"
+  },
+  "gray_dye": {
+    "key": "gray_dye",
+    "title": "Gray Dye",
+    "link": "/Gray_Dye",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 3518 hex: 15f8 bin: 1010111118",
+    "name": {
+      "gray_dye": "Gray Dye"
+    }
+  },
+  "gunpowder": {
+    "key": "gunpowder",
+    "title": "Gunpowder",
+    "link": "/Gunpowder",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 289 hex: 121 bin: 100100001",
+    "name": "gunpowder"
+  },
+  "ink_sac": {
+    "key": "ink_sac",
+    "title": "Ink Sac",
+    "link": "/Ink_Sac",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 351 hex: 15f bin: 101011111",
+    "name": {
+      "ink_sac": "Ink Sac"
+    }
+  },
+  "iron_ingot": {
+    "key": "iron_ingot",
+    "title": "Iron Ingot",
+    "link": "/Iron_Ingot",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 265 hex: 109 bin: 100001001",
+    "name": "iron_ingot"
+  },
+  "lapis_lazuli": {
+    "key": "lapis_lazuli",
+    "title": "Lapis Lazuli",
+    "link": "/Lapis_Lazuli",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 3514 hex: 15f4 bin: 1010111114",
+    "name": {
+      "lapis_lazuli": "Lapis Lazuli"
+    }
+  },
+  "leather": {
+    "key": "leather",
+    "title": "Leather",
+    "link": "/Leather",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 334 hex: 14e bin: 101001110",
+    "name": "leather"
+  },
+  "light_blue_dye": {
+    "key": "light_blue_dye",
+    "title": "Light Blue Dye",
+    "link": "/Light_Blue_Dye",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 35112 hex: 15f12 bin: 10101111112",
+    "name": {
+      "magenta_dye": "Light Blue Dye"
+    }
+  },
+  "light_gray_dye": {
+    "key": "light_gray_dye",
+    "title": "Light Gray Dye",
+    "link": "/Light_Gray_Dye",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 3517 hex: 15f7 bin: 1010111117",
+    "name": {
+      "light_gray_dye": "Light Gray Dye"
+    }
+  },
+  "lime_dye": {
+    "key": "lime_dye",
+    "title": "Lime Dye",
+    "link": "/Lime_Dye",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 35110 hex: 15f10 bin: 10101111110",
+    "name": {
+      "lime_dye": "Lime Dye"
+    }
+  },
+  "lingering_potionthrown_lingering_potionarea_effect_cloud": {
+    "key": "lingering_potionthrown_lingering_potionarea_effect_cloud",
+    "title": "Lingering PotionThrown lingering potionArea effect cloud",
+    "link": "/Lingering_Water_Bottle",
+    "type": "potions",
+    "renewable": true,
+    "stackable": false,
+    "first_appearances": "see history",
+    "data_value": "dec: 441 hex: 1b9 bin: 110111001",
+    "name": "lingering_potion",
+    "internal_id": "je: 3be: 95",
+    "network_id": "je: 73",
+    "entity_id": "area_effect_cloud"
+  },
+  "magenta_dye": {
+    "key": "magenta_dye",
+    "title": "Magenta Dye",
+    "link": "/Magenta_Dye",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 35113 hex: 15f13 bin: 10101111113",
+    "name": {
+      "magenta_dye": "Magenta Dye"
+    }
+  },
+  "magma_cream": {
+    "key": "magma_cream",
+    "title": "Magma Cream",
+    "link": "/Magma_Cream",
+    "type": "items",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 378 hex: 17a bin: 101111010",
+    "name": "magma_cream"
+  },
+  "melon": {
+    "key": "melon",
+    "title": "Melon",
+    "link": "/Melon",
+    "transparency": "partial (blocks light)",
+    "luminance": "no",
+    "blast_resistance": "5",
+    "tools": "",
+    "renewable": true,
+    "flammable": "no",
+    "drops": "melon (3–7)",
+    "data_value": "dec: 103 hex: 67 bin: 1100111",
+    "name": {}
+  },
+  "milk": {
+    "key": "milk",
+    "title": "Milk",
+    "link": "/Milk",
+    "type": "food/drink",
+    "restores": "none; cancels all status effects",
+    "cookable": "no",
+    "renewable": true,
+    "stackable": false,
+    "first_appearances": "see history",
+    "data_values": "je: dec: 335 hex: 14f bin: 101001111be: dec: 3251 hex: 1451 bin: 1010001011",
+    "name": {
+      "milk_bucket": "Milk Bucket"
+    }
+  },
+  "mob_head": {
+    "key": "mob_head",
+    "title": "Mob head",
+    "link": "/Head",
+    "type": "wearable items; solid block",
+    "requirements": "none",
+    "physics": "no",
+    "transparency": "yes",
+    "luminance": "no",
+    "blast_resistance": "5",
+    "hardness": "1",
+    "tool": "any tool",
+    "flammable": "no",
+    "first_appearances": "see history",
+    "drops": "itself",
+    "block_entity_id": "skull",
+    "data_values": "blockdec: 144 hex: 90 bin: 10010000itemdec: 397 hex: 18d bin: 110001101",
+    "name": {
+      "skeleton_skull": "Skeleton Skull",
+      "wither_skeleton_skull": "Wither Skeleton Skull",
+      "zombie_head": "Zombie Head",
+      "player_head": "Player Head",
+      "creeper_head": "Creeper Head",
+      "dragon_head": "Dragon Head",
+      "skeleton_wall_skull": "Skeleton Wall Skull",
+      "wither_skeleton_wall_skull": "Wither Skeleton Wall Skull",
+      "zombie_wall_head": "Zombie Wall Head",
+      "player_wall_head": "Player Wall Head",
+      "creeper_wall_head": "Creeper Wall Head",
+      "dragon_wall_head": "Dragon Wall Head"
+    }
+  },
+  "mushroom_stew": {
+    "key": "mushroom_stew",
+    "title": "Mushroom Stew",
+    "link": "/Mushroom_Stew",
+    "type": "food",
+    "restores": "6 ()",
+    "cookable": "no",
+    "renewable": true,
+    "stackable": false,
+    "first_appearances": "see history",
+    "data_value": "dec: 282 hex: 11a bin: 100011010",
+    "name": "mushroom_stew"
+  },
+  "nether_quartz": {
+    "key": "nether_quartz",
+    "title": "Nether Quartz",
+    "link": "/Nether_Quartz",
+    "type": "raw materials",
+    "renewable": false,
+    "first_appearances": "see history",
+    "data_value": "dec: 406 hex: 196 bin: 110010110",
+    "name": "quartz"
+  },
+  "nether_star": {
+    "key": "nether_star",
+    "title": "Nether Star",
+    "link": "/Nether_Star",
+    "type": "raw materials",
+    "renewable": false,
+    "first_appearances": "see history",
+    "data_value": "dec: 399 hex: 18f bin: 110001111",
+    "name": "nether_star"
+  },
+  "nether_wart": {
+    "key": "nether_wart",
+    "title": "Nether Wart",
+    "link": "/Nether_Wart",
+    "transparency": "yes",
+    "luminance": "no",
+    "blast_resistance": "0",
+    "tool": "any tool",
+    "renewable": true,
+    "flammable": "no",
+    "drops": "nether wart (1) (premature)nether wart (2–4) (fully grown)",
+    "data_values": "blockdec: 115 hex: 73 bin: 1110011itemdec: 372 hex: 174 bin: 101110100",
+    "name": "nether_wart"
+  },
+  "orange_dye": {
+    "key": "orange_dye",
+    "title": "Orange Dye",
+    "link": "/Orange_Dye",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 35114 hex: 15f14 bin: 10101111114",
+    "name": {
+      "orange_dye": "Orange Dye"
+    }
+  },
+  "paper": {
+    "key": "paper",
+    "title": "Paper",
+    "link": "/Paper",
+    "type": "items",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 339 hex: 153 bin: 101010011",
+    "name": "paper"
+  },
+  "pink_dye": {
+    "key": "pink_dye",
+    "title": "Pink Dye",
+    "link": "/Pink_Dye",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 3519 hex: 15f9 bin: 1010111119",
+    "name": {
+      "pink_dye": "Pink Dye"
+    }
+  },
+  "popped_chorus_fruit": {
+    "key": "popped_chorus_fruit",
+    "title": "Popped Chorus Fruit",
+    "link": "/Popped_Chorus_Fruit",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 433 hex: 1b1 bin: 110110001",
+    "name": {
+      "popped_chorus_fruit": "Popped Chorus Fruit"
+    }
+  },
+  "potato": {
+    "key": "potato",
+    "title": "Potato",
+    "link": "/Potato",
+    "type": "food",
+    "restores": "1 ()",
+    "cookable": "yes",
+    "renewable": true,
+    "experience": "cooked: 0.35",
+    "first_appearances": "see history",
+    "data_values": "blockdec: 142 hex: 8e bin: 10001110itemdec: 392 hex: 188 bin: 110001000",
+    "name": {
+      "potatoes": "Block",
+      "potato": "Item"
+    }
+  },
+  "potion": {
+    "key": "potion",
+    "title": "Potion",
+    "link": "/Antidote",
+    "type": "potions",
+    "renewable": true,
+    "stackable": false,
+    "first_appearances": "see history",
+    "data_values": "see data values",
+    "name": {
+      "empty": "Uncraftable Potion",
+      "water": "Water Bottle",
+      "mundane": "Mundane Potion",
+      "thick": "Thick Potion",
+      "awkward": "Awkward Potion",
+      "night_vision": "Night Vision",
+      "invisibility": "Invisibility",
+      "leaping": "Leaping",
+      "fire_resistance": "Fire Resistance",
+      "swiftness": "Swiftness",
+      "slowness": "Slowness",
+      "water_breathing": "Water Breathing",
+      "healing": "Instant Health",
+      "harming": "Harming",
+      "poison": "Poison",
+      "regeneration": "Regeneration",
+      "strength": "Strength",
+      "weakness": "Weakness",
+      "luck": "Luck",
+      "turtle_master": "The Turtle Master",
+      "slow_falling": "Slow Falling"
+    }
+  },
+  "prismarine_crystals": {
+    "key": "prismarine_crystals",
+    "title": "Prismarine Crystals",
+    "link": "/Prismarine_Crystals",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_values": "je: dec: 410 hex: 19a bin: 110011010be: dec: 422 hex: 1a6 bin: 110100110",
+    "name": "je: prismarine_crystalsbe: prismarinecrystals"
+  },
+  "prismarine_shard": {
+    "key": "prismarine_shard",
+    "title": "Prismarine Shard",
+    "link": "/Prismarine_Shard",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 409 hex: 199 bin: 110011001",
+    "name": "je: prismarine_shardbe: prismarineshard"
+  },
+  "pumpkin_pie": {
+    "key": "pumpkin_pie",
+    "title": "Pumpkin Pie",
+    "link": "/Pumpkin_Pie",
+    "type": "food",
+    "restores": "8 ()",
+    "cookable": "no",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 400 hex: 190 bin: 110010000",
+    "name": "pumpkin_pie"
+  },
+  "purple_dye": {
+    "key": "purple_dye",
+    "title": "Purple Dye",
+    "link": "/Purple_Dye",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 3515 hex: 15f5 bin: 1010111115",
+    "name": {
+      "purple_dye": "Purple Dye"
+    }
+  },
+  "rabbit's_foot": {
+    "key": "rabbit's_foot",
+    "title": "Rabbit's Foot",
+    "link": "/Rabbit%27s_Foot",
+    "type": "potion ingredient",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 414 hex: 19e bin: 110011110",
+    "name": "rabbit_foot"
+  },
+  "rabbit_hide": {
+    "key": "rabbit_hide",
+    "title": "Rabbit Hide",
+    "link": "/Rabbit_Hide",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 415 hex: 19f bin: 110011111",
+    "name": "rabbit_hide"
+  },
+  "rabbit_stew": {
+    "key": "rabbit_stew",
+    "title": "Rabbit Stew",
+    "link": "/Rabbit_Stew",
+    "type": "food",
+    "restores": "10 ()",
+    "cookable": "no",
+    "renewable": true,
+    "stackable": false,
+    "first_appearances": "see history",
+    "data_value": "dec: 413 hex: 19d bin: 110011101",
+    "name": "rabbit_stew"
+  },
+  "raw_beef": {
+    "key": "raw_beef",
+    "title": "Raw Beef",
+    "link": "/Raw_Beef",
+    "type": "food",
+    "restores": "3 ()",
+    "cookable": "yes",
+    "renewable": true,
+    "experience": "cooked: 0.35",
+    "first_appearances": "see history",
+    "data_value": "dec: 363 hex: 16b bin: 101101011",
+    "name": "beef"
+  },
+  "raw_chicken": {
+    "key": "raw_chicken",
+    "title": "Raw Chicken",
+    "link": "/Raw_Chicken",
+    "type": "food",
+    "restores": "2 ()30% chance of hunger (0:30)",
+    "cookable": "yes",
+    "renewable": true,
+    "experience": "cooked: 0.35",
+    "first_appearances": "see history",
+    "data_value": "dec: 365 hex: 16d bin: 101101101",
+    "name": "chicken"
+  },
+  "raw_mutton": {
+    "key": "raw_mutton",
+    "title": "Raw Mutton",
+    "link": "/Raw_Mutton",
+    "type": "food",
+    "restores": "2 ()",
+    "cookable": "yes",
+    "renewable": true,
+    "experience": "cooked: 0.35",
+    "first_appearances": "see history",
+    "data_value": "dec: 423 hex: 1a7 bin: 110100111",
+    "name": "je: muttonbe: muttonraw"
+  },
+  "raw_porkchop": {
+    "key": "raw_porkchop",
+    "title": "Raw Porkchop",
+    "link": "/Raw_Porkchop",
+    "type": "food",
+    "restores": "3 ()",
+    "cookable": "yes",
+    "renewable": true,
+    "experience": "cooked: 0.35",
+    "first_appearances": "see history",
+    "data_value": "dec: 319 hex: 13f bin: 100111111",
+    "name": "porkchop"
+  },
+  "raw_rabbit": {
+    "key": "raw_rabbit",
+    "title": "Raw Rabbit",
+    "link": "/Raw_Rabbit",
+    "type": "food",
+    "restores": "3 ()",
+    "cookable": "yes",
+    "renewable": true,
+    "experience": "cooked: 0.35",
+    "first_appearances": "see history",
+    "data_value": "dec: 411 hex: 19b bin: 110011011",
+    "name": "rabbit"
+  },
+  "redstone": {
+    "key": "redstone",
+    "title": "Redstone",
+    "link": "/Redstone",
+    "transparency": "yes",
+    "luminance": "no",
+    "blast_resistance": "0",
+    "tool": "any tool",
+    "renewable": true,
+    "flammable": "no",
+    "availability": "survival",
+    "drops": "redstone (1)",
+    "data_values": "see data values",
+    "name": {
+      "redstone_wire": "Block",
+      "redstone": "Item"
+    }
+  },
+  "rose_red": {
+    "key": "rose_red",
+    "title": "Rose Red",
+    "link": "/Rose_Red",
+    "type": "dyes",
+    "renewable": true,
+    "data_value": "dec: 3511 hex: 15f1 bin: 1010111111",
+    "name": {
+      "rose_red": "Rose Red"
+    }
+  },
+  "rotten_flesh": {
+    "key": "rotten_flesh",
+    "title": "Rotten Flesh",
+    "link": "/Rotten_Flesh",
+    "type": "food",
+    "restores": "4 ()80% chance of hunger for 0:30",
+    "cookable": "no",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 367 hex: 16f bin: 101101111",
+    "name": "rotten_flesh"
+  },
+  "shulker_shell": {
+    "key": "shulker_shell",
+    "title": "Shulker Shell",
+    "link": "/Shulker_Shell",
+    "type": "raw materials",
+    "renewable": false,
+    "data_values": "je: dec: 450 hex: 1c2 bin: 111000010be: dec: 445 hex: 1bd bin: 110111101",
+    "name": "shulker_shell"
+  },
+  "slimeball": {
+    "key": "slimeball",
+    "title": "Slimeball",
+    "link": "/Slimeball",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 341 hex: 155 bin: 101010101",
+    "name": "slime_ball"
+  },
+  "spider_eye": {
+    "key": "spider_eye",
+    "title": "Spider Eye",
+    "link": "/Spider_Eye",
+    "type": "food",
+    "restores": "poison (0:04)",
+    "cookable": "no",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 375 hex: 177 bin: 101110111",
+    "name": "spider_eye"
+  },
+  "splash_potionthrown_splash_potion": {
+    "key": "splash_potionthrown_splash_potion",
+    "title": "Splash PotionThrown splash potion",
+    "link": "/Splash_Water_Bottle",
+    "type": "potions",
+    "renewable": true,
+    "stackable": false,
+    "first_appearances": "see history",
+    "data_value": "dec: 438 hex: 1b6 bin: 110110110",
+    "name": "splash_potion",
+    "internal_id": "pc: 16pe: 86",
+    "network_id": "pc: 73",
+    "entity_id": "pc: potionpe: thrownpotion"
+  },
+  "stick": {
+    "key": "stick",
+    "title": "Stick",
+    "link": "/Stick",
+    "type": "raw materials",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 280 hex: 118 bin: 100011000",
+    "name": "stick"
+  },
+  "string": {
+    "key": "string",
+    "title": "String",
+    "link": "/String",
+    "transparency": "yes",
+    "luminance": "no",
+    "blast_resistance": "0",
+    "tool": "any tool",
+    "renewable": true,
+    "flammable": "no",
+    "drops": "string (1)",
+    "data_values": "blockdec: 132 hex: 84 bin: 10000100itemdec: 287 hex: 11f bin: 100011111",
+    "name": {
+      "tripwire": "Tripwire",
+      "string": "String"
+    }
+  },
+  "sugar": {
+    "key": "sugar",
+    "title": "Sugar",
+    "link": "/Sugar",
+    "type": "food",
+    "restores": "none",
+    "cookable": "no",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 353 hex: 161 bin: 101100001",
+    "name": "sugar"
+  },
+  "sugar_cane": {
+    "key": "sugar_cane",
+    "title": "Sugar Cane",
+    "link": "/Sugar_Cane",
+    "transparency": "yes",
+    "luminance": "no",
+    "blast_resistance": "0",
+    "tool": "any tool",
+    "renewable": true,
+    "flammable": "no",
+    "drops": "itself",
+    "data_values": "see data values",
+    "name": {
+      "sugar_cane": "Sugar Cane"
+    }
+  },
+  "sword": {
+    "key": "sword",
+    "title": "Sword",
+    "link": "/Wooden_Sword",
+    "type": "combat",
+    "durability": "wooden: 60golden: 33stone: 132iron: 251diamond: 1562",
+    "renewable": true,
+    "stackable": false,
+    "data_values": "see data values",
+    "name": {
+      "wooden_sword": "Wooden Sword",
+      "stone_sword": "Stone Sword",
+      "iron_sword": "Iron Sword",
+      "diamond_sword": "Diamond Sword",
+      "golden_sword": "Golden Sword"
+    }
+  },
+  "wheat": {
+    "key": "wheat",
+    "title": "Wheat",
+    "link": "/Wheat",
+    "type": "food",
+    "renewable": true,
+    "first_appearances": "see history",
+    "data_value": "dec: 296 hex: 128 bin: 100101000",
+    "name": "wheat"
+  }
+}
